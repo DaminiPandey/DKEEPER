@@ -11,7 +11,7 @@
 ![2022-04-17 (3)](https://user-images.githubusercontent.com/61384878/163691061-7c764885-e3ba-48dc-826c-cf514b8728f7.png)
 
 
-
+<br>
 
 
 
@@ -20,7 +20,7 @@
 
 
 
-
+<br>
 
 
 <p>This is a note taking application built on the Internet Computer Blockchain using Motoko programming language. It allows users to create personal notes and remainders 
