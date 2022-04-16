@@ -1,16 +1,23 @@
 # <h1>D-KEEPER</h1>
 
+
+
 <p>Decentralized Keeper Application built using React and ICP blockchain.</p><br>
 
 
 
 
-<p>![2022-04-17 (3)](https://user-images.githubusercontent.com/61384878/163690393-625e9c7d-b7f3-430d-bcb8-54e64d43ceba.png)</p><br>
+![2022-04-17 (3)](https://user-images.githubusercontent.com/61384878/163690393-625e9c7d-b7f3-430d-bcb8-54e64d43ceba.png)<br>
 
 
 
 
-<p>![2022-04-17 (4)](https://user-images.githubusercontent.com/61384878/163690398-ade3019d-b12e-4d34-bd60-70b04e9f2225.png)</p><br>
+
+
+![2022-04-17 (4)](https://user-images.githubusercontent.com/61384878/163690398-ade3019d-b12e-4d34-bd60-70b04e9f2225.png)<br>
+
+
+
 
 
 
